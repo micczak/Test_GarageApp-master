@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8286f7b0-a404-452d-8312-e14cff5d4266" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QyWn1WcL3FEHTh5RP6DpwKGZkC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gl703/IdeaProjects/GarageApp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;0480b73f1d855d90cbd5d34a547d8c4c&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="org.example.car.carServiceImpl" />
+      <recent name="org.example.garage.garageServiceImpl" />
+      <recent name="org.example.reservation.ReservationServiceImpl" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.car" />
+      <recent name="org.example.garage" />
+      <recent name="org.example.reservation" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ReservationServiceImplTest">
+    <configuration name="CarControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test_GarageApp-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.car" />
+      <option name="MAIN_CLASS_NAME" value="org.example.car.CarControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test_GarageApp-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.car" />
+      <option name="MAIN_CLASS_NAME" value="org.example.car.CarServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GarageControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test_GarageApp-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.garage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.garage" />
+      <option name="MAIN_CLASS_NAME" value="org.example.garage.GarageControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GarageServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test_GarageApp-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.garage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.garage" />
+      <option name="MAIN_CLASS_NAME" value="org.example.garage.GarageServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservationServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test_GarageApp-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.reservation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.reservation" />
+      <option name="MAIN_CLASS_NAME" value="org.example.reservation.ReservationServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GarageApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Test_GarageApp-master" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.GarageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GarageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="Test_GarageApp-master" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.GarageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReservationServiceImplTest" />
+        <item itemvalue="JUnit.GarageServiceImplTest" />
+        <item itemvalue="JUnit.CarServiceImplTest" />
+        <item itemvalue="JUnit.CarControllerTest" />
+        <item itemvalue="JUnit.GarageControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8286f7b0-a404-452d-8312-e14cff5d4266" name="Changes" comment="" />
+      <created>1686326465902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686326465902</updated>
+      <workItem from="1686326467239" duration="14600000" />
+      <workItem from="1686370701517" duration="1082000" />
+      <workItem from="1686371957427" duration="959000" />
+      <workItem from="1686376767360" duration="345000" />
+      <workItem from="1686678835232" duration="7876000" />
+      <workItem from="1686805119504" duration="5885000" />
+      <workItem from="1686856982350" duration="8034000" />
+      <workItem from="1686891949325" duration="3097000" />
+      <workItem from="1686918904562" duration="8167000" />
+      <workItem from="1687020346364" duration="8030000" />
+      <workItem from="1687100111266" duration="11360000" />
+      <workItem from="1687150182286" duration="2630000" />
+      <workItem from="1687234470057" duration="4212000" />
+      <workItem from="1687278875456" duration="5499000" />
+      <workItem from="1687286826186" duration="1113000" />
+      <workItem from="1687321904155" duration="4663000" />
+      <workItem from="1687411276183" duration="4060000" />
+      <workItem from="1687530878851" duration="6290000" />
+      <workItem from="1687887885001" duration="1205000" />
+      <workItem from="1687898562321" duration="2624000" />
+      <workItem from="1687929719579" duration="5086000" />
+      <workItem from="1687970183895" duration="11766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
